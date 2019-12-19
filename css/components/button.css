@@ -1,0 +1,21 @@
+.btn-blue{
+  background-color: #EDEDED;
+  color: black;
+  padding: 15px 30px;
+  border-radius: 25px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.btn-blue:hover {
+  background-color: #12314A;
+  color: white;
+}
+
+.btn-ghost{
+	background-color: darkblue;
+	color: white;
+  padding: 15px 50px;
+  border-radius: 25px;
+  font-family: 'Open Sans', sans-serif;
+  margin: auto;
+}
